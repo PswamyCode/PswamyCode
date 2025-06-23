@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-<!--
+
 **PswamyCode/PswamyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+Welcome to my little corner of GitHub! I'm a passionate (and sometimes struggling 😅) developer on a mission to master the art of Java and Spring Boot development.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
